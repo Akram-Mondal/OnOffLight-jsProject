@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+#imge{
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.btn{
+    padding: 10px 30px;
+    font-size: 30px;
+    background-color: aqua;
+    color: #572982;
+    border-radius: 5px;
+    border-color: #0c096c;
+}
+
+.btn:hover{
+    cursor: pointer;
+}
